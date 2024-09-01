@@ -28,13 +28,12 @@
 
 ## East
 - Bastrop
-    - Bastrop State Park; [Park Website](https://tpwd.texas.gov/state-parks/bastrop); [Trail Map](https://tpwd.texas.gov/publications/pwdpubs/media/park_maps/pwd_mp_p4505_0043u.pdf); [Google Maps](https://tpwd.texas.gov/publications/pwdpubs/media/park_maps/pwd_mp_p4507_0074g.pdfttps://www.google.com/maps/d/viewer?mid=1WNK4xTQ4w_25GTzXRSOAash31ArFcvyY&femb=1&ll=30.390313688947362%2C-97.37795060276008&z=10)
-        -✔️ 12/7
+    - Bastrop State Park; [Park Website](https://tpwd.texas.gov/state-parks/bastrop); [Trail Map](https://tpwd.texas.gov/publications/pwdpubs/media/park_maps/pwd_mp_p4505_0043u.pdf); [Google Maps](https://tpwd.texas.gov/publications/pwdpubs/media/park_maps/pwd_mp_p4507_0074g.pdfttps://www.google.com/maps/d/viewer?mid=1WNK4xTQ4w_25GTzXRSOAash31ArFcvyY&femb=1&ll=30.390313688947362%2C-97.37795060276008&z=10) - ✔️ 12/7
         - huge hiking!
         - ~50min drive
     - Buescher; [Trail Map](https://tpwd.texas.gov/publications/pwdpubs/media/park_maps/pwd_mp_p4505_0057l.pdf); [Google Maps](https://www.google.com/maps/d/viewer?mid=1WNK4xTQ4w_25GTzXRSOAash31ArFcvyY&femb=1&ll=30.390313688947362%2C-97.37795060276008&z=10)
         - ~50min drive
-- Lake Somerville; [Trail Map](https://tpwd.texas.gov/publications/pwdpubs/media/park_maps/pwd_mp_p4505_0056k.pdf)
+- Lake Somerville; [Park Website](https://tpwd.texas.gov/state-parks/lake-somerville); [Trail Map](https://tpwd.texas.gov/publications/pwdpubs/media/park_maps/pwd_mp_p4505_0056k.pdf)
     - Huge hiking!
     - ~1hr30min drive
 - Huntsville; [Trail Map](https://tpwd.texas.gov/publications/pwdpubs/media/park_maps/pwd_mp_p4505_0044d.pdf); [Google Maps](https://www.google.com/maps/place/Huntsville+State+Park/@30.6159079,-96.2369939,9.46z/data=!4m6!3m5!1s0x86470fb702f68d37:0xd6b4c1c4d4f456c1!8m2!3d30.6209038!4d-95.5223628!16s%2Fm%2F03gw700?entry=ttu)
@@ -43,9 +42,14 @@
     - ~3hr drive
 
 ## South
-- Government Canyon; [Trail Map](https://tpwd.texas.gov/publications/pwdpubs/media/park_maps/pwd_mp_p4505_0165e.pdf)
-    - huge hiking!
-    - ~1hr45min drive
-- Guadalupe River; [Trail Map](https://tpwd.texas.gov/publications/pwdpubs/media/park_maps/pwd_mp_p4505_0040j.pdf)
+- Guadalupe River; [Park Map](https://tpwd.texas.gov/state-parks/guadalupe-river); [Trail Map](https://tpwd.texas.gov/publications/pwdpubs/media/park_maps/pwd_mp_p4505_0040j.pdf)
+    - ~2025
     - big hiking!
     - ~1hr35min drive
+
+---
+#### Scrapped
+- Government Canyon State Natural Area; [Park Website](https://tpwd.texas.gov/state-parks/government-canyon); [Trail Map](https://tpwd.texas.gov/publications/pwdpubs/media/park_maps/pwd_mp_p4505_0165e.pdf)
+    - Tent Only
+    - huge hiking!
+    - ~1hr45min drive
