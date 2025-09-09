@@ -12,4 +12,5 @@
 - [Glacial Lakes (Alexandria)](https://www.dnr.state.mn.us/state_parks/park.html?id=spk00166#homepage)
 - [Maplewood (Fergus Falls)](https://www.dnr.state.mn.us/state_parks/park.html?id=spk00229#homepage)
 - ⭐ [Lake Bemidji](https://www.dnr.state.mn.us/state_parks/park.html?id=spk00205#homepage)
+- [Itasca (Bemidji)](https://www.dnr.state.mn.us/state_parks/park.html?id=spk00181#homepage)
 - ⭐ [Soudan Mine (Vermillion)](https://www.dnr.state.mn.us/state_parks/park.html?id=spk00285#homepage)
